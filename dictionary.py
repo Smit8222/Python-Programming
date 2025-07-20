@@ -1,8 +1,7 @@
 dict = {
-    "name":"smit",
-    "college":"sits",
-    "cource":"cs",
+    "name":["smit", "james", "ravi"],
+    "college":["sits", "srm", "mit"],
+    "cource":["cs", "it", "me", "ec", "ee"]
 
 }
-dict["cource"]="python"
 print(dict)
