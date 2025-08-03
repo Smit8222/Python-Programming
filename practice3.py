@@ -1,3 +1,3 @@
-set={(int,9),(float,9.0)}
-print(type(set))
-print(set)
+a=int(input("Enter your number:"))
+squ=a**2
+print(squ)
